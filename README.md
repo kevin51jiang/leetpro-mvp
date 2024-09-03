@@ -6,8 +6,7 @@ LeetPro is an innovative platform that brings the community-driven learning appr
 
 <details>
   <summary> Watch Video Demo </summary>
-  ![LeetPro Demo](/media/leetProDemo.mp4)
-  
+  ![LeetPro Demo](https://github.com/user-attachments/assets/e84ab297-b1e0-4f8c-b42e-4c1f412744ff)
 </details>
 
 | Practice your Interview                                | Analyze after the fact                               |
