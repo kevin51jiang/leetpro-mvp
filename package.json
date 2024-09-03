@@ -1,0 +1,63 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mantine/core": "^7.12.2",
+    "@mantine/form": "^7.12.2",
+    "@mantine/hooks": "^7.12.2",
+    "@mantine/tiptap": "^7.12.2",
+    "@pixiv/three-vrm": "^3.1.0",
+    "@pixiv/three-vrm-animation": "^3.1.0",
+    "@react-three/drei": "^9.111.4",
+    "@react-three/fiber": "^8.17.6",
+    "@ricky0123/vad-react": "^0.0.24",
+    "@ricky0123/vad-web": "^0.0.18",
+    "@tabler/icons-react": "^3.14.0",
+    "@tiptap/extension-link": "^2.6.6",
+    "@tiptap/react": "^2.6.6",
+    "@tiptap/starter-kit": "^2.6.6",
+    "@types/three": "^0.167.2",
+    "@xenova/transformers": "^2.17.2",
+    "nanoid": "^5.0.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "sonner": "^1.5.0",
+    "three": "^0.167.1",
+    "unplugin-icons": "^0.19.2",
+    "wavefile": "^11.0.0",
+    "wouter": "^3.3.5",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^15.9.0",
+    "onnxruntime-web": "^1.19.0",
+    "postcss": "^8.4.41",
+    "postcss-preset-mantine": "^1.17.0",
+    "postcss-simple-vars": "^7.0.1",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^8.0.1",
+    "vite": "^5.4.1",
+    "vite-plugin-static-copy": "^1.0.6"
+  },
+  "overrides": {
+    "semver": "^7.5.3",
+    "protobufjs": "^7.2.4"
+  },
+  "packageManager": "pnpm@8.7.1+sha1.cb9fb56ca170a718619cd9bc669d99ddadc1afb5"
+}

@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "types": ["unplugin-icons/types/react"],
+    // "lib": ["dom", "dom.iterable", "esnext", "dom.speech"]
+  }
+}
