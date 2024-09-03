@@ -4,6 +4,12 @@
 
 LeetPro is an innovative platform that brings the community-driven learning approach of LeetCode to the rigorous world of finance, product management, and business interviews. Our mission is to help professionals prepare for high-stakes interviews through realistic AI-powered mock interviews and comprehensive feedback.
 
+<details>
+  <summary> Watch Video Demo </summary>
+  ![LeetPro Demo](/media/leetProDemo.mp4)
+  
+</details>
+
 | Practice your Interview                                | Analyze after the fact                               |
 | ------------------------------------------------------ | ---------------------------------------------------- |
 | ![Interview Screenshot](media/interviewScreenshot.png) | ![Analysis Screenshot](media/analysisScreenshot.png) |
@@ -24,12 +30,6 @@ We're continuously working to improve LeetPro. Future iterations may include:
 - Gamification: Engage with leaderboards, groups, and user profiles to connect with other professionals and enhance your learning experience.
 
 Join LeetPro today and take your interview preparation to the next level!
-
-<details>
-  <summary> Watch Video Demo </summary>
-  ![LeetPro Demo](/media/leetProDemo.mp4)
-  
-</details>
 
 ## Setup
 
