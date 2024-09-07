@@ -56,7 +56,9 @@ export function AnalysisPage() {
       <Container size="xl" h="100vh">
         <Paper shadow="sm" p="md" mb="xl">
           <Group align="center">
-            <Image src="/icon.svg" alt="Logo" width={50} height={50} />
+            <a href="https://tryleetpro.com" target="_blank">
+              <Image src="/icon.svg" alt="Logo" width={50} height={50} />
+            </a>
             <Title order={1}>Analysis Results</Title>
           </Group>
         </Paper>
